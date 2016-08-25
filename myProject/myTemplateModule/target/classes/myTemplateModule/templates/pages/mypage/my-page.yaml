@@ -1,0 +1,5 @@
+templateScript: /myTemplateModule/templates/pages/mypage/my-page.ftl
+renderType: freemarker
+visible: true
+dialog: myTemplateModule:pages/mypage/my-page-properties
+title: My First Template

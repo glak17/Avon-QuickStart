@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=
+projectKey=com.mycompany.projects\:myProject-webapp
+serverUrl=http\://sonarqube.ss-prod.us-east-1.schl.local
+version=2
